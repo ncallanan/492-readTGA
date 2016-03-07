@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="CMakeFiles">
+        <df name="3.5.0-rc3">
+          <df name="CompilerIdC">
+            <in>CMakeCCompilerId.c</in>
+          </df>
+          <df name="CompilerIdCXX">
+            <in>CMakeCXXCompilerId.cpp</in>
+          </df>
+        </df>
+        <in>feature_tests.c</in>
+        <in>feature_tests.cxx</in>
+      </df>
+    </df>
+    <logicalFolder name="readTGA" displayName="readTGA" projectFiles="true">
+      <logicalFolder name="codeblocks proj"
+                     displayName="codeblocks proj"
+                     projectFiles="true">
+        <logicalFolder name="CMakeFiles" displayName="CMakeFiles" projectFiles="true">
+          <logicalFolder name="3.5.0-rc3" displayName="3.5.0-rc3" projectFiles="true">
+            <logicalFolder name="CompilerIdC" displayName="CompilerIdC" projectFiles="true">
+              <itemPath>CMakeFiles/3.5.0-rc3/CompilerIdC/a.exe</itemPath>
+            </logicalFolder>
+            <logicalFolder name="CompilerIdCXX"
+                           displayName="CompilerIdCXX"
+                           projectFiles="true">
+              <itemPath>CMakeFiles/3.5.0-rc3/CompilerIdCXX/a.exe</itemPath>
+            </logicalFolder>
+            <itemPath>CMakeFiles/3.5.0-rc3/CMakeCCompiler.cmake</itemPath>
+            <itemPath>CMakeFiles/3.5.0-rc3/CMakeCXXCompiler.cmake</itemPath>
+            <itemPath>CMakeFiles/3.5.0-rc3/CMakeDetermineCompilerABI_C.bin</itemPath>
+            <itemPath>CMakeFiles/3.5.0-rc3/CMakeDetermineCompilerABI_CXX.bin</itemPath>
+            <itemPath>CMakeFiles/3.5.0-rc3/CMakeRCCompiler.cmake</itemPath>
+            <itemPath>CMakeFiles/3.5.0-rc3/CMakeSystem.cmake</itemPath>
+          </logicalFolder>
+          <logicalFolder name="CMakeTmp" displayName="CMakeTmp" projectFiles="true">
+          </logicalFolder>
+          <itemPath>CMakeFiles/CMakeDirectoryInformation.cmake</itemPath>
+          <itemPath>CMakeFiles/CMakeOutput.log</itemPath>
+          <itemPath>CMakeFiles/Makefile.cmake</itemPath>
+          <itemPath>CMakeFiles/Makefile2</itemPath>
+          <itemPath>CMakeFiles/TargetDirectories.txt</itemPath>
+          <itemPath>CMakeFiles/cmake.check_cache</itemPath>
+          <itemPath>CMakeFiles/feature_tests.bin</itemPath>
+          <itemPath>CMakeFiles/progress.marks</itemPath>
+        </logicalFolder>
+        <itemPath>CMakeCache.txt</itemPath>
+        <itemPath>Makefile</itemPath>
+        <itemPath>Project.cbp</itemPath>
+        <itemPath>cmake_install.cmake</itemPath>
+        <itemPath>readTGAv2.cbp</itemPath>
+        <itemPath>readTGAv2.depend</itemPath>
+        <itemPath>readTGAv2.exe</itemPath>
+        <itemPath>readTGAv2.layout</itemPath>
+      </logicalFolder>
+      <logicalFolder name="html" displayName="html" projectFiles="true">
+        <logicalFolder name="search" displayName="search" projectFiles="true">
+          <itemPath>../html/search/all_0.html</itemPath>
+          <itemPath>../html/search/all_0.js</itemPath>
+          <itemPath>../html/search/classes_0.html</itemPath>
+          <itemPath>../html/search/classes_0.js</itemPath>
+          <itemPath>../html/search/close.png</itemPath>
+          <itemPath>../html/search/mag_sel.png</itemPath>
+          <itemPath>../html/search/nomatches.html</itemPath>
+          <itemPath>../html/search/search.css</itemPath>
+          <itemPath>../html/search/search.js</itemPath>
+          <itemPath>../html/search/search_l.png</itemPath>
+          <itemPath>../html/search/search_m.png</itemPath>
+          <itemPath>../html/search/search_r.png</itemPath>
+          <itemPath>../html/search/searchdata.js</itemPath>
+        </logicalFolder>
+        <itemPath>../html/annotated.html</itemPath>
+        <itemPath>../html/arrowdown.png</itemPath>
+        <itemPath>../html/arrowright.png</itemPath>
+        <itemPath>../html/bc_s.png</itemPath>
+        <itemPath>../html/bdwn.png</itemPath>
+        <itemPath>../html/classes.html</itemPath>
+        <itemPath>../html/closed.png</itemPath>
+        <itemPath>../html/doc.png</itemPath>
+        <itemPath>../html/doxygen.css</itemPath>
+        <itemPath>../html/doxygen.png</itemPath>
+        <itemPath>../html/dynsections.js</itemPath>
+        <itemPath>../html/file_i_o_8h_source.html</itemPath>
+        <itemPath>../html/file_i_o___t_g_a_8h_source.html</itemPath>
+        <itemPath>../html/files.html</itemPath>
+        <itemPath>../html/folderclosed.png</itemPath>
+        <itemPath>../html/folderopen.png</itemPath>
+        <itemPath>../html/index.html</itemPath>
+        <itemPath>../html/jquery.js</itemPath>
+        <itemPath>../html/nav_f.png</itemPath>
+        <itemPath>../html/nav_g.png</itemPath>
+        <itemPath>../html/nav_h.png</itemPath>
+        <itemPath>../html/open.png</itemPath>
+        <itemPath>../html/splitbar.png</itemPath>
+        <itemPath>../html/structimg_data-members.html</itemPath>
+        <itemPath>../html/structimg_data.html</itemPath>
+        <itemPath>../html/sync_off.png</itemPath>
+        <itemPath>../html/sync_on.png</itemPath>
+        <itemPath>../html/tab_a.png</itemPath>
+        <itemPath>../html/tab_b.png</itemPath>
+        <itemPath>../html/tab_h.png</itemPath>
+        <itemPath>../html/tab_s.png</itemPath>
+        <itemPath>../html/tabs.css</itemPath>
+      </logicalFolder>
+      <logicalFolder name="latex" displayName="latex" projectFiles="true">
+        <itemPath>../latex/Makefile</itemPath>
+        <itemPath>../latex/annotated.tex</itemPath>
+        <itemPath>../latex/doxygen.sty</itemPath>
+        <itemPath>../latex/make.bat</itemPath>
+        <itemPath>../latex/refman.tex</itemPath>
+        <itemPath>../latex/structimg_data.tex</itemPath>
+      </logicalFolder>
+      <itemPath>../CMakeLists.txt</itemPath>
+      <itemPath>../Makefile</itemPath>
+      <itemPath>../fileIO.h</itemPath>
+      <itemPath>../fileIO_TGA.c</itemPath>
+      <itemPath>../fileIO_TGA.h</itemPath>
+      <itemPath>../main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>nbproject/private/launcher.properties</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>..</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>MinGW_TDM|MinGW_TDM</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="../CMakeLists.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../fileIO.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../fileIO_TGA.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="../fileIO_TGA.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/annotated.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/arrowdown.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/arrowright.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/bc_s.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/bdwn.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/classes.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/closed.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/doc.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/doxygen.css" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/doxygen.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/dynsections.js" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/file_i_o_8h_source.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/file_i_o___t_g_a_8h_source.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../html/files.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/folderclosed.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/folderopen.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/index.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/jquery.js" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/nav_f.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/nav_g.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/nav_h.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/open.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/all_0.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/all_0.js" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/classes_0.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/classes_0.js" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/close.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/mag_sel.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/nomatches.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/search.css" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/search.js" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/search_l.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/search_m.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/search_r.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/search/searchdata.js" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/splitbar.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/structimg_data-members.html"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="../html/structimg_data.html" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/sync_off.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/sync_on.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/tab_a.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/tab_b.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/tab_h.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/tab_s.png" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../html/tabs.css" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../latex/Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../latex/annotated.tex" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../latex/doxygen.sty" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../latex/make.bat" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../latex/refman.tex" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../latex/structimg_data.tex" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="../main.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CMakeCache.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CMakeCCompiler.cmake"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CMakeCXXCompiler.cmake"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CMakeDetermineCompilerABI_C.bin"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CMakeDetermineCompilerABI_CXX.bin"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CMakeRCCompiler.cmake"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CMakeSystem.cmake"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CompilerIdC/CMakeCCompilerId.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CompilerIdC/a.exe"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/3.5.0-rc3/CompilerIdCXX/a.exe"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/CMakeDirectoryInformation.cmake"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="CMakeFiles/CMakeOutput.log" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/Makefile.cmake" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/Makefile2" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/TargetDirectories.txt" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/cmake.check_cache" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/feature_tests.bin" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CMakeFiles/feature_tests.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CMakeFiles/feature_tests.cxx" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CMakeFiles/progress.marks" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Makefile" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Project.cbp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="cmake_install.cmake" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="readTGAv2.cbp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="readTGAv2.depend" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="readTGAv2.exe" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="readTGAv2.layout" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

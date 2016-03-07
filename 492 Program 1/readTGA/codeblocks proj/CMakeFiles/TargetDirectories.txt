@@ -1,0 +1,2 @@
+C:/Users/Nathan/Desktop/492 Program 1/readTGA/codeblocks proj/CMakeFiles/edit_cache.dir
+C:/Users/Nathan/Desktop/492 Program 1/readTGA/codeblocks proj/CMakeFiles/rebuild_cache.dir

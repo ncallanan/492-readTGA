@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1457289355 source:c:\users\nathan\desktop\fileio_tga.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"fileIO_TGA.h"
+
+1457288433 c:\users\nathan\desktop\fileio_tga.h
+	"fileIO.h"
+
+1457288433 c:\users\nathan\desktop\fileio.h
+
+1457286321 source:c:\users\nathan\desktop\main.c
+	<stdio.h>
+	"fileIO_TGA.h"
+
